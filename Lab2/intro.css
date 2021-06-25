@@ -1,0 +1,38 @@
+body{
+    background-color:powderblue;
+}
+h1
+{
+margin-top: 5%;
+margin-left: 45%;
+}
+h2
+{
+color: blue;
+padding-left: 10px;    
+}
+p
+{
+    font-size: x-large;
+    padding-left: 35px ;
+    text-align: center;
+}
+ol li
+{
+    font-family:sans-serif;
+font-size: x-large;
+}
+ul li
+{
+    font-family:sans-serif;
+font-size: x-large;
+
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+border-radius: 15%;
+}

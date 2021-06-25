@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(181, 165, 192);
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    width: 35%;
+    padding-left: 100px;
+    margin-left: 100px;
+    
+}
+p{
+    font-size: x-large;
+}
+ol li{
+    font-size: x-large;
+}
