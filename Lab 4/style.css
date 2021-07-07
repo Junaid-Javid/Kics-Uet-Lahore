@@ -1,0 +1,21 @@
+body {
+  background-color: silver;
+}
+ main {
+  width: 60%;
+  display: block;
+  margin: auto;
+  text-align: center;
+  background-color: lightsteelblue;
+  padding: 10px;
+  
+}
+ 
+
+#p {
+  display: none;
+}
+
+#head:hover + #p {
+  display: block;
+}
