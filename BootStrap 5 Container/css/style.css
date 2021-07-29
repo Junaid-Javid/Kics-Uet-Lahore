@@ -1,0 +1,19 @@
+body{
+  background-color:darkcyan;
+}
+.container{
+  background-color: aqua;
+margin-top: 5rem;;
+}
+.col1 {
+  background-color: blue;
+  height:25rem;
+}
+.col3 {
+  background-color: yellow;
+height:25rem;
+}
+.col4 {
+  background-color: pink;
+height:25rem;
+}
